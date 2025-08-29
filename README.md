@@ -62,7 +62,8 @@ void main() {
 }
 
 🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+![WhatsApp Image 2025-08-29 at 09 21 37_95acfde7](https://github.com/user-attachments/assets/7255a9b9-fef9-44fd-843e-8b0cead074db)
+
 
 ✅ Result
 
